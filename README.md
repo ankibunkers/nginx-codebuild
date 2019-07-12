@@ -1,1 +1,1 @@
-Example AWS CodePipeline (updated*)
+Example AWS CodePipeline
